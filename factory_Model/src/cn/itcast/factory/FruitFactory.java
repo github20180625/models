@@ -2,6 +2,7 @@ package cn.itcast.factory;
 
 import java.io.InputStream;
 import java.util.Properties;
+
 /*工厂*/
 public class FruitFactory {
     /**

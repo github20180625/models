@@ -1,4 +1,4 @@
-package cn.itcast.one.test;
+package src.cn.itcast.one.test;
 
 import cn.itcast.one.Producer;
 import cn.itcast.one.impl.ProducerImp;
